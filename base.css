@@ -1,2 +1,7 @@
+body::before {  
+  height: 100%;
+  width: 100%;
+    background-size: cover;
   background-position: center;
   background-image: url(https://i.imgur.com/wN417tS.gif); 
+}
