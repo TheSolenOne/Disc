@@ -715,7 +715,7 @@ div.unread-mentions-indicator-bottom {
     position: absolute;
     width: 100vw;
     background: var(--background-image) !important;
-    backgorund-position: var(--background-image-position) !important;
+    background-position: var(--background-image-position) !important;
     background-size: cover !important;
 }
 
@@ -768,7 +768,7 @@ div.unread-mentions-indicator-bottom {
 
 .guilds-1q_RqH > .guild-1EfMGQ:first-child > .guildInner-3DSoA4 {
     background: var(--friends-icon) !important;
-    /*background-position: var(--friends-icon-position) !important;*/
+    background-position: var(--friends-icon-position) !important;
     background-repeat: no-repeat !important;
     background-size: var(--friends-icon-zoom) !important;
 }
