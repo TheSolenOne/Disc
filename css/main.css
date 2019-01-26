@@ -715,7 +715,7 @@ div.unread-mentions-indicator-bottom {
     position: absolute;
     width: 100vw;
     background: var(--background-image) !important;
-    backgorund-position: var(--background-pos) !important;
+    backgorund-position: var(--background-image-position) !important;
     background-size: cover !important;
 }
 
